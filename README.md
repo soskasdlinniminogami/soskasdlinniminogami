@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning about the use of blockchain in supply chain management and decentralized identity solutions.
 - 💞️ I’m looking to collaborate on open-source blockchain projects that address real-world challenges.
 - 📫 How to reach me: Drop me a message [danylarson1@gmail.com].
+- Okaaaay let's goooo!
 
 Remember, your GitHub bio is an excellent way to showcase your interests, skills, and aspirations as a web3 developer. Feel free to tailor these descriptions to represent your unique journey and personality!
 
